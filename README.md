@@ -20,15 +20,19 @@ I built this project to understand how RAG works internally—not just how to co
 
 The interface supports PDF uploading, document processing, natural-language questions, generated answers, and expandable retrieved passages.
 
-<!-- Add your actual GitHub-hosted screenshots below once uploaded. -->
+<img width="1584" height="985" alt="05_grounding_test" src="https://github.com/user-attachments/assets/61da4cc3-fd4c-4d86-b945-8f80c4cb37f6" />
+
+
 
 | Document Processing | Question Answering |
-|---|---|
-| Upload a PDF and process its text into chunks. | Ask questions and receive answers grounded in the retrieved context. |
-
+<img width="1584" height="985" alt="04_fact_verification" src="https://github.com/user-attachments/assets/64908798-db92-4d9d-b8be-45f168165764" />
+<img width="1584" height="985" alt="03_retrieved_sources" src="https://github.com/user-attachments/assets/8db6e19c-af94-4ae8-b5b8-ebc0e6c72966" />
 | Retrieved Sources | Grounding Test |
 |---|---|
 | Inspect passages, page numbers, and similarity scores. | Test how the system responds when relevant information is missing. |
+<img width="1480" height="955" alt="02_question_answer" src="https://github.com/user-attachments/assets/5fb39943-08a4-417d-ae16-649d916bb869" />
+<img width="1584" height="985" alt="01_main_interface" src="https://github.com/user-attachments/assets/a7ae4bcf-7258-4c1d-84b3-12fd72dec4ae" />
+
 
 ---
 
